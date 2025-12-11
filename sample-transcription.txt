@@ -1,0 +1,21 @@
+Patient Name: Jane Smith
+Age: 32
+Gender: Female
+Date of Birth: 1992-03-15
+Blood Pressure: 118/76
+Heart Rate: 68
+Temperature: 98.4
+Weight: 145
+Height: 5'6"
+Chief Complaint: Severe headache
+Symptoms: Patient reports severe headache for 2 days with photophobia and nausea. Pain is throbbing, primarily on the right side. No fever or neck stiffness.
+Diagnosis: Migraine without aura
+Allergies: Penicillin
+Medications: Oral contraceptives, multivitamin
+Medical History: History of migraines since age 25, occurs approximately once per month. No other significant medical history.
+Surgical History: Appendectomy at age 16
+Family History: Mother has history of migraines. Father has hypertension.
+Social History: Non-smoker, occasional alcohol use, works as software engineer
+Assessment: 32-year-old female presenting with classic migraine symptoms. No red flags for secondary headache.
+Plan: Prescribe sumatriptan 50mg for acute treatment. Recommend keeping headache diary. Consider preventive therapy if frequency increases. Follow up in 1 week or sooner if symptoms worsen. Patient education provided regarding migraine triggers and management.
+Notes: Patient is aware of potential triggers including stress, lack of sleep, and certain foods. Advised to maintain regular sleep schedule and stay hydrated.
